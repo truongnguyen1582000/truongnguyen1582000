@@ -30,51 +30,22 @@
 
 ### 🛠️ Currently Shaping Up
 
-- 🔭 Building **modern web applications** with **Next.js 14/15** + **App Router** + **Server Components**
-- 🌱 Deepening knowledge in **React Server Components**, **tRPC**, **Zod**, **Drizzle ORM** / **Prisma**
+- 🔭 Building **modern web applications** with **Next.js 14+**, **App Router**, **Server Components**
+- 🌱 Deepening knowledge in **React Server Components**, **Zod**, **TypeORM** / **Prisma**
 - ⚡ Exploring **Astro**, **SvelteKit**, **Qwik**, **Solid.js** (trying to stay curious)
 - 📈 Improving **performance**, **accessibility (a11y)**, **SEO**, and **DX** in every project
 
 <br/>
 
-### 📊 Weekly Development Breakdown (last 7 days)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-*(Add https://github.com/anmol098/wakatime-readme-stats or https://github.com/jamesgeorge007/github-activity-readme to show real stats)*
-
-<br/>
-
 ### 🌐 Connect with me
 
-<div align="center">
+<div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/truongnguyen01683393752)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongnguyen1582000@gmail.com)
 
 </div>
 
 <br/>
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
----
-
-Made with ❤️ & lots of ☕ in Đà Nẵng, Việt Nam  
-Last updated: January 2026
+Made with ❤️ & lots of ☕ in Đà Nẵng, Việt Nam
