@@ -2,7 +2,6 @@
   <img height="180" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4200&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Trương;Frontend+%26+Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+Angular+%7C+Vue" alt="headline" />
 </div>
 
-<br/>
 
 <h3 align="center">🚀 Tech Stack I Work With Daily</h3>
 
@@ -26,8 +25,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<br/>
-
 ### 🛠️ Currently Shaping Up
 
 - 🔭 Building **modern web applications** with **Next.js 14+**, **App Router**, **Server Components**
@@ -35,7 +32,7 @@
 - ⚡ Exploring **Astro**, **SvelteKit**, **Qwik**, **Solid.js** (trying to stay curious)
 - 📈 Improving **performance**, **accessibility (a11y)**, **SEO**, and **DX** in every project
 
-<br/>
+
 
 ### 🌐 Connect with me
 
